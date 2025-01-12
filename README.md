@@ -2,6 +2,9 @@ Hexchat Addons (c) J~Net 2025
 
 jnet2025.ddns.net
 
+https://github.com/jamieduk/Hexchat-Addons-c-J-Net-2025
+
+
 For nicktrace
 put file hostmasks.db into config folder
 
