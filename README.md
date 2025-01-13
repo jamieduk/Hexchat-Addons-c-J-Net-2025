@@ -18,7 +18,7 @@ cp *.* /home/$USER/.config/hexchat/addons/perl
 sudo apt-get install -y libcanberra-gtk-module hexchat libdatetime-format-strptime-perl
 
 mkdir -p ~/perl5/lib/perl5
-export PERL5LIB=~/perl5/lib/perl5:$PERL5LIB
+
 cpan -i Time::ParseDate
 
 Type sudo if asked!
